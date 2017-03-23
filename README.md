@@ -1,4 +1,4 @@
-# quora_nlp
+# quora_nlp (Work in progress)
 NLP processing of Quora question pairs to identify duplicates. 
 
 Started a project to analyse duplicate question pairs. 
